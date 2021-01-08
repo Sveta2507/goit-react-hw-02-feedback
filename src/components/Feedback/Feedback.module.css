@@ -1,0 +1,15 @@
+.cont{
+  justify-content: center;
+  margin: 0 auto;
+  display: flex;
+}
+
+.btn{
+  width: 100px;
+  height: 40px;
+  box-shadow: 10px 10px 30px 4px rgb(134, 161, 214);
+   background-color: rgb(71, 82, 202);
+   text-align: center;
+   font-weight: bold;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

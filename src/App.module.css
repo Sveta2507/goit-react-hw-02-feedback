@@ -1,0 +1,14 @@
+.box {
+  display: inline-block;
+  min-height: 300px;
+  min-width: 300px;
+  background-color: rgb(234, 187, 251);
+  text-align: center;
+  align-items: center;
+  padding: 15px;
+  margin-left: auto;
+  border: 4px solid rgb(58, 3, 87);
+  position: absolute;
+  top: 100px;
+  left: 570px;
+}
